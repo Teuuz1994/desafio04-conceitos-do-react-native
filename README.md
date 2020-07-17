@@ -7,22 +7,23 @@
 <blockquote align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Teuuz1994/desafio04-conceitos-do-react-native?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-  </a>
+  <a href="#">
+    <img alt="Made by Teuuz1994" src="https://img.shields.io/badge/made%20by-Teuuz1994-%2304D361">
 </p>
+
+---
+
+## Demonstração:
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;
-</p>
+  <img src=".github/desafio-04.gif" />
+</P>
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no React Native!
-
-Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend utilizando o Node.js, e no último desafio em ReactJS.
+Neste desafio a aplicação deve ser capaz de listar todos os portfólio de repositórios do usuário feito no backend do desafio 02 e poder dar likes ao clicar no botão e o número de likes alterar dinamicamente.
 
 ---
 
